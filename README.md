@@ -37,7 +37,7 @@ Inserção em aplicações já existentes como um novo módulo, agregando divers
 
 # Imagens
 
-Acompanhe o passo a passo na pasta https://github.com/giseleti/ImagensIASearch.git 
+Acompanhe o passo a passo no link https://github.com/giseleti/imagensiasearchlab 
 
 # Considerações Finais
 
